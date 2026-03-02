@@ -1,3 +1,3 @@
 # CalculadoraPropina
 
-EJemplo en clase de condicionales ,creamos calculadora .
+Ejemplo en clase de condicionales ,creamos calculadora .
